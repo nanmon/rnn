@@ -1,4 +1,4 @@
 *.csv
 .DS_Store
-grimms.txt
+*.txt
 ckpt
